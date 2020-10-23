@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "blimps",
+    "name": "Blimps!",
+    "authors": [ "fatalmojo" ],
+    "description": "Blimps, enough said.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
